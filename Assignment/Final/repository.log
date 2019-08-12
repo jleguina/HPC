@@ -1,0 +1,77 @@
+commit bbf2b1f3bc1a6775aadac10a738fac889df88a99
+Author: Javier Leguina Peral <jl5916@ic.ac.uk>
+Date:   Wed Mar 20 16:41:02 2019 +0000
+
+    Last Makefile v2
+
+commit fe8471fa1e7b749a8f4236b000deee7856536a8e
+Author: Javier Leguina Peral <jl5916@ic.ac.uk>
+Date:   Wed Mar 20 16:33:58 2019 +0000
+
+    Last Makefile
+
+commit 69ea4cd87377535d3bef31a234bb73fd1a9d15a1
+Author: Javier Leguina Peral <jl5916@ic.ac.uk>
+Date:   Wed Mar 20 14:33:21 2019 +0000
+
+    Finishing Touches
+
+commit 3a4d3c9af83656f7d287cff50658445d1f15c41d
+Author: Javier Leguina Peral <jl5916@ic.ac.uk>
+Date:   Wed Mar 20 14:28:11 2019 +0000
+
+    Addition for Px=Py=1
+
+commit 24e01fc9c5ce0c0e127cee645e91f6baf0c3db09
+Author: Javier Leguina Peral <jl5916@ic.ac.uk>
+Date:   Wed Mar 20 14:00:33 2019 +0000
+
+    Final submission
+
+commit 07f4a1b81b8045b9cbb78315abfe2beea300e092
+Author: Javier Leguina Peral <jl5916@ic.ac.uk>
+Date:   Wed Mar 20 13:36:42 2019 +0000
+
+    Penultimate submission
+
+commit c05d9d2a3ab3623a2d03a27f7e6fdaa5b9f2985d
+Author: Javier Leguina Peral <jl5916@ic.ac.uk>
+Date:   Wed Mar 20 12:32:50 2019 +0000
+
+    Write File finished
+
+commit 3a3348e3911a1e71a5bf3b94b5a3538466737b2f
+Author: Javier Leguina Peral <jl5916@ic.ac.uk>
+Date:   Wed Mar 20 12:20:08 2019 +0000
+
+    MPI Integrate
+
+commit 5493285fb092faac4602614ce60456671c7adcde
+Author: Javier Leguina Peral <jl5916@ic.ac.uk>
+Date:   Wed Mar 20 00:01:59 2019 +0000
+
+    MPI General
+
+commit c321023d10caca860b840b94c4da916e8c65b977
+Author: Javier Leguina Peral <jl5916@ic.ac.uk>
+Date:   Thu Mar 14 18:34:46 2019 +0000
+
+    MPI_Burgers v1
+
+commit 8176a4e3ed765f71bad4a2868d408abd844c3205
+Author: Javier Leguina Peral <jl5916@ic.ac.uk>
+Date:   Thu Mar 14 17:09:09 2019 +0000
+
+    Velocity Field .txt upload
+
+commit bd2a9160c1349617a453bd176197b4ef5ddb0006
+Author: Javier Leguina Peral <jl5916@ic.ac.uk>
+Date:   Thu Mar 14 17:08:04 2019 +0000
+
+    MPI Initial Commit
+
+commit 9c957619e43015fd0e341ed87df021e0fddad975
+Author: Javier Leguina Peral <jl5916@ic.ac.uk>
+Date:   Thu Mar 14 17:05:53 2019 +0000
+
+    Initial Commit

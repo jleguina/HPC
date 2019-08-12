@@ -1,0 +1,1 @@
+./Debug/burguers.cpp.o ./Debug/Model.cpp.o ./Debug/Burgers.cpp.o
